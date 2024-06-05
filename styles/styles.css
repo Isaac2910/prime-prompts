@@ -1,0 +1,58 @@
+
+
+ header {
+
+    width: 100%;
+    display: flex; 
+    background-color: rgb(131, 131, 192);
+
+    }
+    
+nav {
+    width: 100%;
+    max-width: 1728px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2px;
+    
+}
+.log {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    background-color: rgb(219, 201, 236);
+    height: 48px; ;
+    width: 276px; ;
+
+
+
+}
+.imglog{
+    border: 1px solid black;
+    height: 48px; ;
+    width: 121px; ;
+}
+.namlog {
+    border: solid red;
+    height:48px ;
+    width: 155px;
+}
+.but {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    height: 37px; ;  
+    width: 332px; ;  
+    
+}
+.butconx {border: 1px solid black;
+    height: 37px; ;
+    width: 108px; ;
+
+}
+.butid {
+    background-color: black;
+    height: 37px;
+    width: 213px;
+}
